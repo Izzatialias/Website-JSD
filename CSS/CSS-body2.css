@@ -62,7 +62,7 @@ body,html {
 
 
 #chat-inputuser {
-  /*
+  
   background: #f4f7f9;
   width:20%; 
   position:fixed;
@@ -78,7 +78,7 @@ body,html {
   outline:none;
   border:3px solid #B1072B;
   color:#888;
-  */
+  /*
   background: #f4f7f9;
   width:100%; 
   position:fixed;
@@ -92,7 +92,7 @@ body,html {
   outline:none;
   border:3px solid #B1072B;
   color:#888;
-  
+  */
   border-bottom-right-radius:5px;
   border-bottom-left-radius:5px;
   border-top-right-radius:5px;
