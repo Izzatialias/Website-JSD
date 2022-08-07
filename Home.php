@@ -16,13 +16,14 @@
   <link rel="stylesheet" type="text/css" href="CSS/CSS-body2.css">
   <link rel="stylesheet" type="text/css" href="CSS/CSSmainpage.css">
   <link rel="stylesheet" href="CSS/bootstrap.min.css"/>
- 
+   <link rel="stylesheet" type="text/php" href="CSS/CSS-body2.css">
+
   
  
 
 </head>
- <?php include ("header.php") ?>
- <?php include ("menu.php") ?>
+ <?php include ("Code/header.php") ?>
+ <?php include ("Code/menu.php") ?>
  
 <body>
 
@@ -1304,16 +1305,16 @@ $(function() {
 </script>
 
 <!---section first--->
-<?php include ("slideshow.php") ?>
+<?php include ("Code/slideshow.php") ?>
 
 <!---section first--->
-<?php include ("section.php") ?>
+<?php include ("Code/section.php") ?>
 
 <!---next section--->
-<?php include ("next.php") ?>
+<?php include ("Code/next.php") ?>
 
 <!---footer section--->
-<?php include ("footer.php") ?>
+<?php include ("Code/footer.php") ?>
 
 
 </body>
