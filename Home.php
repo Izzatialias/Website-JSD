@@ -16,12 +16,13 @@
   <link rel="stylesheet" type="text/css" href="CSS/CSS-body2.css">
   <link rel="stylesheet" type="text/css" href="CSS/CSSmainpage.css">
   <link rel="stylesheet" href="CSS/bootstrap.min.css"/>
-   <link rel="stylesheet" type="text/php" href="CSS/CSS-body2.css">
+  <link rel="stylesheet" type="text/php" href="CSS/CSS-body2.css">
 
   
  
 
 </head>
+
  <?php include ("Code/header.php") ?>
  <?php include ("Code/menu.php") ?>
  
