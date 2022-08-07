@@ -4,13 +4,13 @@
 <div class="nav-section" ><center>
 	<div class="dropdown">
 	  <button class="dropbtn">
-		<a class="active1"  href="Home.php" style="font-size:25px;"><i class="fa fa-home"></i></a> 
+		<a class="active1"  href="/Website-JSD/Home.php" style="font-size:25px;"><i class="fa fa-home"></i></a> 
 	  </button>
 	</div>
 	<div class="dropdown">
 	  <button class="dropbtn">ABOUT</button>
 	  <div class="dropdown-content">
-			<a href="Introduction.php" 				 style="text-decoration:none" >Introduction</a>
+			<a href="Code/Introduction.php" 				 style="text-decoration:none" >Introduction</a>
 			<a href="Dean.php" 	 style="text-decoration:none">From The Dean Desk</a></a>
 			<a href="Vision and Mission.php" 		 style="text-decoration:none">Vision, Mission & Objectives</a>
 			<a href="about-team.php" 				 style="text-decoration:none">Client Charter</a>
