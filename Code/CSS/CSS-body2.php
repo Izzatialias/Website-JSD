@@ -1,4 +1,4 @@
- 
+<style>
 
 body,html {
   background-color:#353b87;
@@ -427,3 +427,4 @@ body,html {
 
 
 
+</style>
