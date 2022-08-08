@@ -16,9 +16,7 @@
   <link rel="stylesheet" type="text/css" href="CSS/CSS-body2.css">
   <link rel="stylesheet" type="text/css" href="CSS/CSSmainpage.css">
   <link rel="stylesheet" href="CSS/bootstrap.min.css"/>
- <?php include ("CSS/CSS-body2.php") ?>
- <?php include ("CSS/CSSmainpage.php") ?>
- <?php include ("CSS/bootstrap.min.php") ?>
+ 
 <style>
 	.section{
 		height:700px;
@@ -66,22 +64,44 @@
 <div class="section">
 		<div class="container">
 			<!-- course item -->
-			<h1>Web Admin</h1><hr>
+			<h1>Admin Staff</h1><hr>
 			<div class="row">
 				<div class="column">
 
 			<table>
 			  
 			  <tr>
-				<td style="width:20%;"><center><img src="images/staff/tmn.jpg" style="width:50%;"></td>
+				<td style="width:20%"><center><img src="images/staff/pnlili.jpg" style="width:50%;"></td>
 				<td>
-					<p>Nama: TUAN MOHD NIZAM BIN TUAN MUSTAPA
-					<br>Jawatan: PENOLONG PENDAFTAR
-					<br>Emel: nizam.tm@umk.edu.my
+					<p>Nama: PUAN NORLIFARIZAM BINTI MOHAMAD SIEBI
+					<br>Jawatan: Penolong Pendaftar
+					<br>Emel: norlifarizam@umk.edu.my
 					<br>Staff Expertise: <a href="">Click Here<a>			
 					</p>
 				</td>
 			  </tr>
+			  <tr>
+				<td><center><img src="images/staff/en.hakimi.jpg"  style="width:50%;" ></td>
+				<td>
+					<p>Nama: ENCIK MUHAMMAD HAKIMI BIN ZUHAIRI
+					<br>Jawatan: Penolong Pegawai Tadbir
+					<br>Emel: Hakimi.z@umk.edu.my
+					<br>Staff Expertise: <a href="">Click Here<a>			
+					</p>
+				</td>			  
+			  </tr>
+			  <tr>
+				<td><center><img src="images/staff/pn.nor.jpg"  style="width:50%;"></td>
+				<td>
+					<p>Nama: PUAN NOR AZIZAH BINTI HALIL NOR RAHMAN
+					<br>Jawatan: Pembantu Tadbir (P/O)
+					<br>Emel: norazizah.h@umk.edu.my
+					<br>Staff Expertise: <a href="">Click Here<a>			
+					</p>
+				</td>
+			  </tr>
+
+			  
 			 
 			</table><br>
 			

@@ -13,13 +13,14 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
   <script src="https://kit.fontawesome.com/a076d05399.js"  ></script>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-  <link rel="stylesheet" type="text/css" href="CSS/CSS-body2.css">
-  <link rel="stylesheet" type="text/css" href="CSS/CSSmainpage.css">
-  <link rel="stylesheet" href="CSS/bootstrap.min.css"/>
-  <link rel="stylesheet" type="text/php" href="CSS/CSS-body2.css">
+  <link rel="stylesheet" type="text/css" href="/Code/CSS/CSS-body2.css">
+  <link rel="stylesheet" type="text/css" href="/Code/CSS/CSSmainpage.css">
+  <link rel="stylesheet" href="/Code/CSS/bootstrap.min.css"/>
+ <?php include ("Code/CSS/CSS-body2.php") ?>
+ <?php include ("Code/CSS/CSSmainpage.php") ?>
+ <?php include ("Code/CSS/bootstrap.min.php") ?>
 
-  
- 
+
 
 </head>
 

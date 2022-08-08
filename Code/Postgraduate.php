@@ -16,7 +16,9 @@
   <link rel="stylesheet" type="text/css" href="CSS/CSS-body2.css">
   <link rel="stylesheet" type="text/css" href="CSS/CSSmainpage.css">
   <link rel="stylesheet" href="CSS/bootstrap.min.css"/>
- 
+ <?php include ("CSS/CSS-body2.php") ?>
+ <?php include ("CSS/CSSmainpage.php") ?>
+ <?php include ("CSS/bootstrap.min.php") ?>
 <style>
 	.courses-section{
 		height:600px;
