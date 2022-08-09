@@ -1,2 +1,0 @@
-# jsdchatbot
-chatbot for JSD 
