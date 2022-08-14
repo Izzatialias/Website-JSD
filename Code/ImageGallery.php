@@ -19,41 +19,24 @@
  
 <style>
 	.section{
-		height:1500px;
+		height:1000px;
 	}
 	.container {
 	width: 100%;
 	}
-	.row {
-	  display: flex;
-	  margin-left:-5px;
-	  margin-right:-5px;
-	}
-	.column {
-	  flex: 50%;
-	  padding: 5px;
-	}
-	table {
-	  font-family: arial, sans-serif;
-	  border-collapse: collapse;
-	  width: 100%;
-	}
 
-	td, th {
-	  border: 1px solid #000;
-	  text-align: left;
-	  padding: 8px;
+	.hide {
+	display: none;
 	}
-
-	tr:nth-child(odd) {
-		background-color: #ddd;
+   	.myDIV:hover + .hide {
+	display: block;
+	color: black;
 	}
-	@media screen and (max-width: 600px) {
-  .column {
-    width: 100%;
-  }
-}
+	
 </style> 
+
+</head>
+<body>
 
 </head>
  <?php include ("header.php") ?>
@@ -63,31 +46,29 @@
 
 <div class="section">
 	<div class="container">
-			<h1>Images Gallery</h1><hr>
-			
+		<h1>Images Gallery</h1><hr>
 			<!-- Images item -->
-			<center><img style="width:30%" src="images/PosterSeminarIR40-Small1.png"></center>
-			<h5 style="color:white; background-color:maroon; width:13%;" >|| 23 MAY 2021</h5>
+			<div class="myDIV">
+			<img style="width:30%" src="images/PosterSeminarIR40-Small1.png"></div>
+			<div class="hide"><h5 style="color:white; background-color:maroon; width:13%;" >|| 23 MAY 2021</h5>
 			<h5>Tittle: <b>Seminar for Industrial Revolution 4.0</h5>
 			<h5>Location: <b>Microsoft Teams</h5>
 			<h5>Start Date: <b>23-May-2021</h5>
 			<h5>End Date: <b>23-May-2021</h5>
-			<h5>Time: <b>1-2 pm</h5><hr>
-			
+			<h5>Time: <b>1-2 pm</h5><hr></div><br>
+		
 			<!-- Images item -->
-			<center><img style="width:30%" src="images/INDUSTRIALTALK_JSD_DESIGNING_USER_INTERFACE.png"></center>
-			<h5 style="color:white; background-color:maroon; width:13%;" >|| 27 APRIL 2021</h5>
+			<div class="myDIV">
+			<img style="width:30%" src="images/INDUSTRIALTALK_JSD_DESIGNING_USER_INTERFACE.png"></div>
+			<div class="hide"><h5 style="color:white; background-color:maroon; width:13%;" >|| 27 APRIL 2021</h5>
 			<h5>Tittle: <b>Industrial Engagement Series:- Designing User Interface[HD]</h5>
 			<h5>Location: <b>FB Live and UMK TV</h5>
 			<h5>Start Date: <b>27-Apr-2021</h5>
 			<h5>End Date: <b>27-Apr-2021</h5>
-			<h5>Time: <b>1-2 pm</h5><hr>
-
-			
-			
+			<h5>Time: <b>1-2 pm</h5><hr></div><br>
 	</div>
 </div>
-</div>
+
 </body>
 <!---footer section--->
 <?php include ("footer.php") ?>
