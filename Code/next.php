@@ -1,3 +1,4 @@
+
 <!--Our Courses-->
 <section class="courses-section spad">
 		<div class="container">
@@ -49,24 +50,24 @@
 <div class="photo" style="background-color:#F5F5F5;">
 	<center><h3>Gallery </h3><br></center>
 	<div class="">
-			<a class="img-popup" href="images/1.jfif"><i class="ti-fullscreen"></i>
-				<img src="images/1.jfif" alt="" style="max-height: 320px;"></a>
+			<a class="img-popup" href="Code/images/1.jfif"><i class="ti-fullscreen"></i>
+				<img src="Code/images/1.jfif" alt="" style="max-height: 320px;"></a>
 			<a class="img-popup" href="images/2.jpg"><i class="ti-fullscreen"></i>
-				<img src="images/2.jpg"  alt="" style="max-height: 320px;"></a>
+				<img src="Code/images/2.jpg"  alt="" style="max-height: 320px;"></a>
 			<a class="img-popup" href="images/3.jfif"><i class="ti-fullscreen"></i>
-				<img src="images/3.jfif" alt="" style="max-height: 320px;"></a>
+				<img src="Code/images/3.jfif" alt="" style="max-height: 320px;"></a>
 			<a class="img-popup" href="images/7.jpg"><i class="ti-fullscreen"></i>
-				<img src="images/7.jpg"  alt="" style="max-height: 320px;"></a>
+				<img src="Code/images/7.jpg"  alt="" style="max-height: 320px;"></a>
 			<a class="img-popup" href="images/DSC08761.JPG"><i class="ti-fullscreen"></i>
-				<img src="images/DSC08761.JPG"  alt="" style="height: 318px; max-width:20%;"></a>
+				<img src="Code/images/DSC08761.JPG"  alt="" style="height: 318px; max-width:20%;"></a>
 			<a class="img-popup" href="images/4.jfif"><i class="ti-fullscreen"></i>
-				<img src="images/4.jfif" alt="" style="max-height: 318px;"></a>
+				<img src="Code/images/4.jfif" alt="" style="max-height: 318px;"></a>
 			<a class="img-popup" href="mages/5.jfif"><i class="ti-fullscreen"></i>
-				<img src="images/5.jfif" alt="" style="max-height: 318px;"></a>
+				<img src="Code/images/5.jfif" alt="" style="max-height: 318px;"></a>
 			<a class="img-popup" href="images/24031.jpg"><i class="ti-fullscreen"></i>
-				<img src="images/24031.jpg" alt="" style="max-height: 318px;"></a>
+				<img src="Code/images/24031.jpg" alt="" style="max-height: 318px;"></a>
 			<a class="img-popup" href="images/6.jfif"><i class="ti-fullscreen"></i>
-				<img src="images/6.jfif" alt="" style="height: 318px; max-width:23.5%;"></a>
+				<img src="Code/images/6.jfif" alt="" style="height: 318px; max-width:23.5%;"></a>
 		<br>
 	</div>
 </div><br><br>
@@ -79,7 +80,7 @@
 				<!-- course item -->
 				<div class="col-lg-6 col-md-6 course-item">
 					<div class="course-thumb">
-						<img src="images/MA.JPG" style="max-height: 295px;" alt="" >
+						<img src="Code/images/MA.JPG" style="max-height: 295px;" alt="" >
 						<div class="course-cat">
 							<span>MEETING</span>
 						</div>
@@ -91,7 +92,7 @@
 				</div><!-- course item -->
 				<div class="col-lg-6 col-md-6 course-item">
 					<div class="course-thumb">
-						<img src="images/git.jpg" style="max-height: 295px;" alt="" >
+						<img src="Code/images/git.jpg" style="max-height: 295px;" alt="" >
 						<div class="course-cat">
 							<span>MEETING</span>
 						</div>
@@ -104,7 +105,7 @@
 				<!-- course item -->
 				<div class="col-lg-6 col-md-6 course-item">
 					<div class="course-thumb">
-						<img src="images/mac230.jpg" style="max-height: 295px;" alt="" >
+						<img src="Code/images/mac230.jpg" style="max-height: 295px;" alt="" >
 						<div class="course-cat">
 							<span>MEETING</span>
 						</div>
@@ -118,7 +119,7 @@
 				<!-- course item -->
 				<div class="col-lg-6 col-md-6 course-item">
 					<div class="course-thumb">
-						<img src="images/5.jfif" style="max-height: 295px;" alt="" >
+						<img src="Code/images/5.jfif" style="max-height: 295px;" alt="" >
 						<div class="course-cat">
 							<span>MEETING</span>
 						</div>
@@ -132,7 +133,7 @@
 			<!-- course item -->
 				<div class="col-lg-6 col-md-6 course-item">
 					<div class="course-thumb">
-						<img src="images/mac170.jpg" style="max-height: 320px;" alt="" >
+						<img src="Code/images/mac170.jpg" style="max-height: 320px;" alt="" >
 						<div class="course-cat">
 							<span>MEETING</span>
 						</div>
@@ -146,7 +147,7 @@
 			<!-- course item -->
 				<div class="col-lg-6 col-md-6 course-item">
 					<div class="course-thumb">
-						<img src="images/feb152.jpg" style="max-height: 320px;" alt="" >
+						<img src="Code/images/feb152.jpg" style="max-height: 320px;" alt="" >
 						<div class="course-cat">
 							<span>TRAINING</span>
 						</div>
@@ -160,7 +161,7 @@
 				<!-- course item -->
 				<div class="col-lg-6 col-md-6 course-item">
 					<div class="course-thumb">
-						<img src="images/JAN190.jpg" style="max-height: 295px;" alt="" >
+						<img src="Code/images/JAN190.jpg" style="max-height: 295px;" alt="" >
 						<div class="course-cat">
 							<span>MEETING</span>
 						</div>
