@@ -19,7 +19,7 @@
  
 <style>
 	.section{
-		height:700px;
+		height:900px;
 	}
 	.container {
 	width: 100%;
@@ -62,50 +62,40 @@
 <body>
 
 <div class="section">
-		<div class="container">
-			<!-- course item -->
-			<h1>Admin Staff</h1><hr>
-			<div class="row">
-				<div class="column">
-
-			<table>
-			  
-			  <tr>
-				<td style="width:20%"><center><img src="images/staff/pnlili.jpg" style="width:50%;"></td>
-				<td>
-					<p>Nama: PUAN NORLIFARIZAM BINTI MOHAMAD SIEBI
-					<br>Jawatan: Penolong Pendaftar
-					<br>Emel: norlifarizam@umk.edu.my
-					<br>Staff Expertise: <a href="">Click Here<a>			
-					</p>
-				</td>
-			  </tr>
-			  <tr>
-				<td><center><img src="images/staff/en.hakimi.jpg"  style="width:50%;" ></td>
-				<td>
-					<p>Nama: ENCIK MUHAMMAD HAKIMI BIN ZUHAIRI
-					<br>Jawatan: Penolong Pegawai Tadbir
-					<br>Emel: Hakimi.z@umk.edu.my
-					<br>Staff Expertise: <a href="">Click Here<a>			
-					</p>
-				</td>			  
-			  </tr>
-			  <tr>
-				<td><center><img src="images/staff/pn.nor.jpg"  style="width:50%;"></td>
-				<td>
-					<p>Nama: PUAN NOR AZIZAH BINTI HALIL NOR RAHMAN
-					<br>Jawatan: Pembantu Tadbir (P/O)
-					<br>Emel: norazizah.h@umk.edu.my
-					<br>Staff Expertise: <a href="">Click Here<a>			
-					</p>
-				</td>
-			  </tr>
-
-			  
-			 
-			</table><br>
+	<div class="container">
+			<h1>Faculty Events</h1><hr>
 			
-		</div>
+			<!-- Events item -->
+			<h5 style="color:white; background-color:maroon; width:13%;" >|| 23 MAY 2021</h5>
+			<h5>Tittle: <b>Seminar for Industrial Revolution 4.0</h5>
+			<h5>About:</h5>
+			<h5 style="color:grey"><b>Another industrial engagement talk was organized on 23 May 2021. The talk was delivered by 
+			Dr. Mohd Zamri Che Wanik,  who is currently a research scientist at Qatar Environment and 
+			Energy Research Institute. With his expertise in energy research, 
+			Dr. Mohd Zamri delivered a very informative speech on the impacts of IR4.0 on science 
+			and technology especially in the energy sector.</h5><br>
+			<h5>Location: <b>Microsoft Teams</h5>
+			<h5>Start Date: <b>23-May-2021</h5>
+			<h5>End Date: <b>23-May-2021</h5>
+			<h5>Time: <b>1-2 pm</h5><hr>
+			
+			<!-- Events item -->
+			<h5 style="color:white; background-color:maroon; width:13%;" >|| 27 APRIL 2021</h5>
+			<h5>Tittle: <b>Industrial Engagement Series:- Designing User Interface[HD]</h5>
+			<h5>About:</h5>
+			<h5 style="color:grey"><b>Department of Data Science had organized its debut webinar of 
+			Industrial Engagement Series in February 2021. The title of the online talk was 
+			"Designing User Interface", which was brilliantly delivered by an industry expert, 
+			Mr. Asrul Nasiruddin. Mr. Asrul gained vast and valuable experiences in this area when he 
+			was one of the main designers in various industrial multimedia and animation projects 
+			including Ejen Ali and so forth.</h5><br>
+			<h5>Location: <b>FB Live and UMK TV</h5>
+			<h5>Start Date: <b>27-Apr-2021</h5>
+			<h5>End Date: <b>27-Apr-2021</h5>
+			<h5>Time: <b>1-2 pm</h5><hr>
+
+			
+			
 	</div>
 </div>
 </div>

@@ -45,7 +45,7 @@
 	<div class="dropdown">
 	  <button class="dropbtn" >ACTIVITY</button>
 	  <div class="dropdown-content">
-		<a href="research@aibig.php" style="text-decoration:none">Faculty Events</a>
+		<a href="/Website-JSD/Code/FacultyEvents.php" style="text-decoration:none">Faculty Events</a>
 		<a href="COVID-19.php" style="text-decoration:none">Image Gallery</a>
 		<a href="research-grant.php" style="text-decoration:none">Video Gallery</a>
 		<a href="publications.php" style="text-decoration:none">Latest News</a>
