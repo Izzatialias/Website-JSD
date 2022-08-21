@@ -21,22 +21,21 @@
 	.section{
 		height:1000px;
 	}
+	
 	.container {
 	width: 100%;
 	}
-
+	
 	.hide {
 	display: none;
 	}
+	
    	.myDIV:hover + .hide {
 	display: block;
 	color: black;
 	}
 	
 </style> 
-
-</head>
-<body>
 
 </head>
  <?php include ("header.php") ?>

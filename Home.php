@@ -54,7 +54,7 @@
 		 
 		<div id="cm-msg-2" class="chat-msg user">  
 			  <span class="msg-avatar">
-				  <img style="float:left;" src="images/chatbot.png">  		 
+				  <img style="float:left;" src="Code/images/chatbot.png">  		 
 			  </span><br><br>
 			  
 			  <div id="start" class="cm-msg-text">
@@ -175,7 +175,7 @@
     var str="";
     str += "<div   id='cm-msg-"+INDEX+"' class=\"chat-msg "+type+"\">";
     str += "          <span class=\"msg-avatar\">";
-    str += "            <img src=\"images/happy.png\">";
+    str += "            <img src=\"Code/images/happy.png\">";
     str += "          </span>";
     str += "          <div class=\"cm-msg-text\">";
     str += msgSelf;
@@ -195,7 +195,7 @@
     var str="";
     str += "<div id=\"myElemInd"+indexIndicator+"\"  id='cm-msg-2' class=\"chat-msg "+type+"\">";
     str += "          <span class=\"msg-avatar\">";
-    str += "            <img src=\"images/chatbot.png\">";
+    str += "            <img src=\"Code/images/chatbot.png\">";
     str += "          </span>";
 	str += " 	<div  class='typing-indicator'>  ";
 	str += " 		<span></span>";
@@ -227,7 +227,7 @@
 	
     str += "<div   id='cm-msg-"+INDEX+"' class=\"chat-msg "+type+"\">";
     str += "          <span class=\"msg-avatar\">";
-    str += "            <img src=\"images/chatbot.png\">";
+    str += "            <img src=\"Code/images/chatbot.png\">";
     str += "          </span>";
 	
    
@@ -359,7 +359,7 @@
     var str="";
     str += "<div   id='cm-msg-"+INDEX+"' class=\"chat-msg "+type+"\">";
     str += "          <span class=\"msg-avatar\">";
-    str += "            <img src=\"images/happy.png\">";
+    str += "            <img src=\"Code/images/happy.png\">";
     str += "          </span>";
     str += "          <div class=\"cm-msg-text\">";
     str += msgSelf;
@@ -378,7 +378,7 @@
     var str="";
     str += "<div id=\"myElemInd"+indexIndicator+"\"  id='cm-msg-2' class=\"chat-msg "+type+"\">";
     str += "          <span class=\"msg-avatar\">";
-    str += "            <img src=\"images/chatbot.png\">";
+    str += "            <img src=\"Code/images/chatbot.png\">";
     str += "          </span>";
 	str += " 	<div  class='typing-indicator'>  ";
 	str += " 		<span></span>";
@@ -409,19 +409,19 @@
 	{
     str += "<div   id='cm-msg-"+INDEX+"' class=\"chat-msg "+type+"\">";
     str += "          <span class=\"msg-avatar\">";
-    str += "            <img src=\"images/chatbot.png\">";
+    str += "            <img src=\"Code/images/chatbot.png\">";
     str += "          </span>";
 	
     str += "          <br><br><div class=\"cm-msg-text\">";
-    str += "<b>Kota Campus : </b><div style='background:red; height:160px;'> <img style='width:100%;'src=\"images/umkKota.jpg\"> </div><ul><li>Faculty of entrepreneurship and business (FKP) </li> <li>Faculty of hospitality. Tourism and wellness (FHPK) </li> <li>Faculty of Veterinary Medicine (FPV) </li></ul>";
+    str += "<b>Kota Campus : </b><div style='background:red; height:160px;'> <img style='width:100%;'src=\"Code/images/umkKota.jpg\"> </div><ul><li>Faculty of entrepreneurship and business (FKP) </li> <li>Faculty of hospitality. Tourism and wellness (FHPK) </li> <li>Faculty of Veterinary Medicine (FPV) </li></ul>";
     str += "          </div>";
 	
 	str += "          <div class=\"cm-msg-text\">";
-    str += "<b>Bachok Campus : </b><div style='background:yellow; height:160px;'> <img style='width:100%;'src=\"images/umkBachok.jpg\"></div><ul><li>Faculty of creative technology and heritage (FTKW) </li><li>Centre for Language Studies and Generic Development (PBI)</li><li> Faculty of Architecture and Ekistics (FAC)</li></ul>";
+    str += "<b>Bachok Campus : </b><div style='background:yellow; height:160px;'> <img style='width:100%;'src=\"Code/images/umkBachok.jpg\"></div><ul><li>Faculty of creative technology and heritage (FTKW) </li><li>Centre for Language Studies and Generic Development (PBI)</li><li> Faculty of Architecture and Ekistics (FAC)</li></ul>";
     str += "          </div>";
    
     str += "          <div class=\"cm-msg-text\">";
-    str += "<b>Jeli Campus :</b> <div style='background:green; height:160px;'><img style='width:100%;'src=\"images/umkjeli1.jpg\"> </div><ul><li>Faculty of Agro Based industry (FIAT)</li><li> Faculty of Earth Sciences (FSB) </li><li>Faculty of Bioengineering and Technology (FBKT)</li></ul>";
+    str += "<b>Jeli Campus :</b> <div style='background:green; height:160px;'><img style='width:100%;'src=\"Code/images/umkjeli1.jpg\"> </div><ul><li>Faculty of Agro Based industry (FIAT)</li><li> Faculty of Earth Sciences (FSB) </li><li>Faculty of Bioengineering and Technology (FBKT)</li></ul>";
     str += "          </div>";
 	
 	 
@@ -437,12 +437,12 @@
 		}
 		else if (msgSelf == "Virtual Campus?")
 		{
-			msgUser =    msgUser + "<br><a href = 'https://www.umk.edu.my/virtualkampus/index.php' target='_blank'>  <video style='width:100%;' controls> <source src='images/UMK.mp4' type='video/mp4'> </video>     Click here   </a>";
+			msgUser =    msgUser + "<br><a href = 'https://www.umk.edu.my/virtualkampus/index.php' target='_blank'>  <video style='width:100%;' controls> <source src='Code/images/UMK.mp4' type='video/mp4'> </video>     Click here   </a>";
 		}
 		
     str += "<div   id='cm-msg-"+INDEX+"' class=\"chat-msg "+type+"\">";
     str += "          <span class=\"msg-avatar\">";
-    str += "            <img src=\"images/chatbot.png\">";
+    str += "            <img src=\"Code/images/chatbot.png\">";
     str += "          </span>"; 
     str += "          <div class=\"cm-msg-text\">";
     str += msgUser;
@@ -517,7 +517,7 @@
 	
     str += "<div   id='cm-msg-"+INDEX+"' class=\"chat-msg "+type+"\">";
     str += "          <span class=\"msg-avatar\">";
-    str += "            <img src=\"images/happy.png\">";
+    str += "            <img src=\"Code/images/happy.png\">";
     str += "          </span>";
     str += "          <div class=\"cm-msg-text\">";
     str += msgSelf;
@@ -536,7 +536,7 @@
     var str="";
     str += "<div id=\"myElemInd"+indexIndicator+"\"  id='cm-msg-2' class=\"chat-msg "+type+"\">";
     str += "          <span class=\"msg-avatar\">";
-    str += "            <img src=\"images/chatbot.png\">";
+    str += "            <img src=\"Code/images/chatbot.png\">";
     str += "          </span>";
 	str += " 	<div  class='typing-indicator'>  ";
 	str += " 		<span></span>";
@@ -564,7 +564,7 @@
 	
     str += "<div   id='cm-msg-"+INDEX+"' class=\"chat-msg "+type+"\">";
     str += "          <span class=\"msg-avatar\">";
-    str += "            <img src=\"images/chatbot.png\">";
+    str += "            <img src=\"Code/images/chatbot.png\">";
     str += "          </span>";
     //str += "          
 	
@@ -679,7 +679,7 @@
     var str="";
     str += "<div   id='cm-msg-"+INDEX+"' class=\"chat-msg "+type+"\">";
     str += "          <span class=\"msg-avatar\">";
-    str += "            <img src=\"images/happy.png\">";
+    str += "            <img src=\"Code/images/happy.png\">";
     str += "          </span>";
     str += "          <div class=\"cm-msg-text\">";
     str += msgSelf;
@@ -698,7 +698,7 @@
     var str="";
     str += "<div id=\"myElemInd"+indexIndicator+"\"  id='cm-msg-2' class=\"chat-msg "+type+"\">";
     str += "          <span class=\"msg-avatar\">";
-    str += "            <img src=\"images/chatbot.png\">";
+    str += "            <img src=\"Code/images/chatbot.png\">";
     str += "          </span>";
 	str += " 	<div  class='typing-indicator'>  ";
 	str += " 		<span></span>";
@@ -726,7 +726,7 @@
     var str="";
     str += "<div   id='cm-msg-"+INDEX+"' class=\"chat-msg "+type+"\">";
     str += "          <span class=\"msg-avatar\">";
-    str += "            <img src=\"images/chatbot.png\">";
+    str += "            <img src=\"Code/images/chatbot.png\">";
     str += "          </span>";
     str += "          <div class=\"cm-msg-text\">";
     str += msgUser;
@@ -849,7 +849,7 @@
     var str="";
     str += "<div   id='cm-msg-"+INDEX+"' class=\"chat-msg "+type+"\">";
     str += "          <span class=\"msg-avatar\">";
-    str += "            <img src=\"images/happy.png\">";
+    str += "            <img src=\"Code/images/happy.png\">";
     str += "          </span>";
     str += "          <div class=\"cm-msg-text\">";
     str += msgSelf;
@@ -868,7 +868,7 @@
     var str="";
     str += "<div id=\"myElemInd"+indexIndicator+"\"  id='cm-msg-2' class=\"chat-msg "+type+"\">";
     str += "          <span class=\"msg-avatar\">";
-    str += "            <img src=\"images/chatbot.png\">";
+    str += "            <img src=\"Code/images/chatbot.png\">";
     str += "          </span>";
 	str += " 	<div  class='typing-indicator'>  ";
 	str += " 		<span></span>";
@@ -907,7 +907,7 @@
 	{
     str += "<div   id='cm-msg-"+INDEX+"' class=\"chat-msg "+type+"\">";
     str += "          <span class=\"msg-avatar\">";
-    str += "            <img src=\"images/chatbot.png\">";
+    str += "            <img src=\"Code/images/chatbot.png\">";
     str += "          </span>";
 	
     str += "         <br><br> <div class=\"cm-msg-text\">";
@@ -929,7 +929,7 @@
 	{
     str += "<div   id='cm-msg-"+INDEX+"' class=\"chat-msg "+type+"\">";
     str += "          <span class=\"msg-avatar\">";
-    str += "            <img src=\"images/chatbot.png\">";
+    str += "            <img src=\"Code/images/chatbot.png\">";
     str += "          </span>";
     str += "          <div class=\"cm-msg-text\">";
     str += msgUser;
@@ -1042,7 +1042,7 @@
     var str="";
     str += "<div   id='cm-msg-"+INDEX+"' class=\"chat-msg "+type+"\">";
     str += "          <span class=\"msg-avatar\">";
-    str += "            <img src=\"images/happy.png\">";
+    str += "            <img src=\"Code/images/happy.png\">";
     str += "          </span>";
     str += "          <div class=\"cm-msg-text\">";
     str += msgSelf;
@@ -1061,7 +1061,7 @@
     var str="";
     str += "<div id=\"myElemInd"+indexIndicator+"\"  id='cm-msg-2' class=\"chat-msg "+type+"\">";
     str += "          <span class=\"msg-avatar\">";
-    str += "            <img src=\"images/chatbot.png\">";
+    str += "            <img src=\"Code/images/chatbot.png\">";
     str += "          </span>";
 	str += " 	<div  class='typing-indicator'>  ";
 	str += " 		<span></span>";
@@ -1102,7 +1102,7 @@
 	{
     str += "<div   id='cm-msg-"+INDEX+"' class=\"chat-msg "+type+"\">";
     str += "          <span class=\"msg-avatar\">";
-    str += "            <img src=\"images/chatbot.png\">";
+    str += "            <img src=\"Code/images/chatbot.png\">";
     str += "          </span>";
 	
     str += "          <div class=\"cm-msg-text\">";
@@ -1124,7 +1124,7 @@
 	{
     str += "<div   id='cm-msg-"+INDEX+"' class=\"chat-msg "+type+"\">";
     str += "          <span class=\"msg-avatar\">";
-    str += "            <img src=\"images/chatbot.png\">";
+    str += "            <img src=\"Code/images/chatbot.png\">";
     str += "          </span>";
     str += "          <div class=\"cm-msg-text\">";
     str += msgUser;
@@ -1247,7 +1247,7 @@ $(function() {
     var str="";
     str += "<div id='cm-msg-"+INDEX+"' class=\"chat-msg "+type+"\">";
     str += "          <span class=\"msg-avatar\">";
-    str += "            <img src=\"images/happy.png\">";
+    str += "            <img src=\"Code/images/happy.png\">";
     str += "          <\/span>";
     str += "          <div class=\"cm-msg-text\">";
     str += msg;
@@ -1267,7 +1267,7 @@ $(function() {
     var str="";
     str += "<div id='cm-msg-"+INDEX+"' class=\"chat-msg "+type+"\">";
     str += "          <span class=\"msg-avatar\">";
-    str += "            <img src=\"images/chatbot.png\">";
+    str += "            <img src=\"Code/images/chatbot.png\">";
     str += "          <\/span>";
     str += "          <div class=\"cm-msg-text\">";
     str += msg;

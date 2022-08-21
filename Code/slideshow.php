@@ -90,6 +90,9 @@
 @media only screen and (max-width: 300px) {
   .prev, .next,.text {font-size: 11px}
 }
+ <?php include ("Code/CSS/CSS-body2.php") ?>
+ <?php include ("Code/CSS/CSSmainpage.php") ?>
+ <?php include ("Code/CSS/bootstrap.min.php") ?>
 </style>
 </head>
 <body>
@@ -98,24 +101,24 @@
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 3</div>
-  <img src="images/background.png" style="width:100%">
+  <img src="Code/images/background.png" style="width:100%">
   <div class="text">Caption Text</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 3</div>
-  <img src="images/program meet & greet.png" style="width:100%">
+  <img src="Code/images/program meet & greet.png" style="width:100%">
   <div class="text">Caption Two</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">3 / 3</div>
-  <img src="images/WEBINAR PROF. ZAITON.png" style="width:100%">
+  <img src="Code/images/WEBINAR PROF. ZAITON.png" style="width:100%">
   <div class="text">Caption Three</div>
 </div>
 <div class="mySlides fade">
   <div class="numbertext">3 / 3</div>
-  <img src="images/GITHUB.png" style="width:100%">
+  <img src="Code/images/GITHUB.png" style="width:100%">
   <div class="text"></div>
 </div>
 

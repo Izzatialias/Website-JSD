@@ -1,4 +1,6 @@
-
+ <?php include ("Code/CSS/CSS-body2.php") ?>
+ <?php include ("Code/CSS/CSSmainpage.php") ?>
+ <?php include ("Code/CSS/bootstrap.min.php") ?>
 <!--Our Courses-->
 <section class="courses-section spad">
 		<div class="container">
@@ -8,7 +10,7 @@
 				<!-- course item -->
 				<div class="col-sm-3 col-md-6 col-lg-4 course-item">
 					<div class="course-thumb">
-						<img src="images/BigData.jpg" style="max-height: 200px;" alt="" >
+						<img src="Code/images/BigData.jpg" style="max-height: 200px;" alt="" >
 						<div class="course-cat">
 							<span>SST</span>
 						</div>
@@ -20,7 +22,7 @@
 				<!-- course item -->
 				<div class="col-sm-3 col-md-6 col-lg-4 course-item">
 					<div class="course-thumb">
-						<img src="images/master.jpg" style="max-height: 200px;" alt="" >
+						<img src="Code/images/master.jpg" style="max-height: 200px;" alt="" >
 						<div class="course-cat">
 							<span>MASTER</span>
 						</div>
@@ -32,7 +34,7 @@
 				<!-- course item -->
 				<div class="col-sm-3 col-md-6 col-lg-4 course-item">
 					<div class="course-thumb">
-						<img src="images/AI-logo.jpg" style="max-height: 200px;" alt="" >
+						<img src="Code/images/AI-logo.jpg" style="max-height: 200px;" alt="" >
 						<div class="course-cat">
 							<span>PHD</span>
 						</div>

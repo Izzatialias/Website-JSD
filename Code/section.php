@@ -1,3 +1,6 @@
+ <?php include ("Code/CSS/CSS-body2.php") ?>
+ <?php include ("Code/CSS/CSSmainpage.php") ?>
+ <?php include ("Code/CSS/bootstrap.min.php") ?>
 <div class="first"><br><br><br>
 		<div class="container services">
 			<div class="section-title text-center">
@@ -7,7 +10,7 @@
 			<div class="row">
 				<div class="col-md-4 col-sm-4">
 					<div class="service-icon">
-						<img src="images/IoT.png" alt="1">
+						<img src="Code/images/IoT.png" alt="1">
 					</div>
 					<div class="service-content">
 						<h4><a href="research@aibig.php#Internet of Things" style="color: black" title="View research activities in Internet of Things (IoT)">Internet of Things (IoT)</a></h4>
@@ -16,7 +19,7 @@
 				</div>
 				<div class="col-md-4 col-sm-4">
 					<div class="service-icon">
-						<img src="images/AI.png" alt="1">
+						<img src="Code/images/AI.png" alt="1">
 					</div>
 					<div class="service-content">
 						<h4><a href="research@aibig.php#Artificial Intelligence" style="color: black" title="View research activities in Artificial Intelligence">Artificial Intelligence</a></h4>
@@ -25,7 +28,7 @@
 				</div>
 				<div class="col-md-4 col-sm-4" >
 					<div class="service-icon">
-						<img src="images/ML.png" alt="1">
+						<img src="Code/images/ML.png" alt="1">
 					</div>
 					<div class="service-content">
 						<h4><a href="research@aibig.php#Machine Learning" style="color: black" title="View research activities in Machine Learning">Machine Learning</a></h4>
@@ -34,7 +37,7 @@
 				</div>
 				<div class="col-md-4 col-sm-4">
 					<div class="service-icon">
-						<img src="images/BD.png" alt="1">
+						<img src="Code/images/BD.png" alt="1">
 					</div>
 					<div class="service-content">
 						<h4><a href="research@aibig.php#Big Data" style="color: black" title="View research activities in Big Data">Big Data</a></h4>
@@ -43,7 +46,7 @@
 				</div>
 				<div class="col-md-4 col-sm-4">
 					<div class="service-icon">
-						<img src="images/Ds.png" alt="1">
+						<img src="Code/images/Ds.png" alt="1">
 					</div>
 					<div class="service-content">
 						<h4><a href="research@aibig.php#Data Science" style="color: black" title="View research activities in Data Science">Data Science</a></h4>
@@ -53,7 +56,7 @@
 			</div>
 		</div>
 </div><br><br><br><br>
-<div class="enrollment" style="background-image:url(images/bg.jpg); background-size: 1700px 700px; background-repeat:no-repeat;">
+<div class="enrollment" style="background-image:url(Code/images/bg.jpg); background-size: 1700px 700px; background-repeat:no-repeat;">
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-5">
