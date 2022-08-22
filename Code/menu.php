@@ -11,7 +11,7 @@
 	<div class="dropdown">
 	  <button class="dropbtn">ABOUT</button>
 	  <div class="dropdown-content">
-			<a href="Code/Introduction.php" 				 style="text-decoration:none" >Introduction</a>
+			<a href="Introduction.php" 				 style="text-decoration:none" >Introduction</a>
 			<a href="Dean.php" 	 style="text-decoration:none">From The Dean Desk</a></a>
 			<a href="Vision and Mission.php" 		 style="text-decoration:none">Vision, Mission & Objectives</a>
 			<a href="Chart.php"  style="text-decoration:none">Organization Chart</a>
