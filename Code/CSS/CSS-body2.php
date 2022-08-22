@@ -328,7 +328,7 @@ body,html {
 	  height:700px;
 	}
 	#chat-inputuser {
-	  width:62%; 
+	  width:56%; 
 	  position:fixed;
 	  right:75px;
 	  bottom:55px;  

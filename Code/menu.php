@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 
 <body>
+
 <div class="nav-section" ><center>
 	<div class="dropdown">
 	  <button class="dropbtn">
@@ -10,30 +11,29 @@
 	<div class="dropdown">
 	  <button class="dropbtn">ABOUT</button>
 	  <div class="dropdown-content">
-			<a href="/Website-JSD/Code/Introduction.php" 				 style="text-decoration:none" >Introduction</a>
-			<a href="/Website-JSD/Code/Dean.php" 	 style="text-decoration:none">From The Dean Desk</a></a>
-			<a href="/Website-JSD/Code/Vision and Mission.php" 		 style="text-decoration:none">Vision, Mission & Objectives</a>
-			<a href="about-team.php" 				 style="text-decoration:none">Client Charter</a>
-			<a href="/Website-JSD/Code/Chart.php"  style="text-decoration:none">Organization Chart</a>
-			<a href="/Website-JSD/Code/Contact.php" style="text-decoration:none"  target="_blank">Contact Us</a>
+			<a href="Code/Introduction.php" 				 style="text-decoration:none" >Introduction</a>
+			<a href="Dean.php" 	 style="text-decoration:none">From The Dean Desk</a></a>
+			<a href="Vision and Mission.php" 		 style="text-decoration:none">Vision, Mission & Objectives</a>
+			<a href="Chart.php"  style="text-decoration:none">Organization Chart</a>
+			<a href="Contact.php" style="text-decoration:none"  target="_blank">Contact Us</a>
 	  </div>
 	</div>
 	<div class="dropdown">
 	  <button class="dropbtn">PROGRAMME</button>
 	  <div class="dropdown-content">
-		<a href="/Website-JSD/Code/Undergraduate.php"   style="text-decoration:none" target="_blank">Undergraduate Program</a>
-		<a href="/Website-JSD/Code/Postgraduate.php" style="text-decoration:none" target="_blank">Postgraduate Program</a>
-		<a href="/Website-JSD/Code/Academic calendar.php" style="text-decoration:none" target="_blank">Academic Calendar</a>
-		<a href="/Website-JSD/Code/Study Fees.php"	   style="text-decoration:none" target="_blank">Study Fees</a>
-		<a href="/Website-JSD/Code/HowtoApply.php"	   style="text-decoration:none" target="_blank">How to Apply?</a>
+		<a href="Undergraduate.php"   style="text-decoration:none" target="_blank">Undergraduate Program</a>
+		<a href="Postgraduate.php" style="text-decoration:none" target="_blank">Postgraduate Program</a>
+		<a href="Academic calendar.php" style="text-decoration:none" target="_blank">Academic Calendar</a>
+		<a href="Study Fees.php"	   style="text-decoration:none" target="_blank">Study Fees</a>
+		<a href="HowtoApply.php"	   style="text-decoration:none" target="_blank">How to Apply?</a>
 	  </div>
 	</div>
 	<div class="dropdown">
 	  <button class="dropbtn" 		 style="text-decoration:none">DIRECTORY</button>
 	  <div class="dropdown-content"  style="text-decoration:none">
-		<a href="/Website-JSD/Code/AcademicStaff.php" style="text-decoration:none">Academic Staff</a>
-		<a href="/Website-JSD/Code/AdminStaff.php" 		 style="text-decoration:none">Admin Staff</a>
-		<a href="/Website-JSD/Code/WebAdmin.php" style="text-decoration:none">Web Admin</a>
+		<a href="AcademicStaff.php" style="text-decoration:none">Academic Staff</a>
+		<a href="AdminStaff.php" 		 style="text-decoration:none">Admin Staff</a>
+		<a href="WebAdmin.php" style="text-decoration:none">Web Admin</a>
 	 </div>
 	</div>
 	<div class="dropdown">
@@ -45,8 +45,8 @@
 	<div class="dropdown">
 	  <button class="dropbtn" >ACTIVITY</button>
 	  <div class="dropdown-content">
-		<a href="/Website-JSD/Code/FacultyEvents.php" style="text-decoration:none">Faculty Events</a>
-		<a href="/Website-JSD/Code/ImageGallery.php"" style="text-decoration:none">Image Gallery</a>
+		<a href="FacultyEvents.php" style="text-decoration:none">Faculty Events</a>
+		<a href="ImageGallery.php"" style="text-decoration:none">Image Gallery</a>
 		<a href="research-grant.php" style="text-decoration:none">Video Gallery</a>
 		<a href="publications.php" style="text-decoration:none">Latest News</a>
 		<a href="research-collaboration.php" style="text-decoration:none">Newspapers</a>

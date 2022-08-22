@@ -2,7 +2,7 @@
 	<div class="container">
 	<div class="row no-gutters">
 		<div class="col-md-6 col-sm-13" style="margin-left: 90px">
-			<img class="site-logo" src="Code/images/HeaderNew5.png" alt="" style="padding-left: 15px;">
+			<img class="site-logo" src="images/HeaderNew5.png" alt="" style="padding-left: 15px;">
 			
 		</div>
 		<div class="pull-right" style="margin-right: 100px; padding-top: 20px">

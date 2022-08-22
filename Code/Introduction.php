@@ -26,8 +26,9 @@
 </style> 
 
 </head>
- <?php include ("header.php") ?>
- <?php include ("menu.php") ?><br><br>
+ <?php include ("header.php")?>
+ <?php include ("menu.php") ?>
+ <br><br>
  
 <body>
 <!--Our Courses-->
