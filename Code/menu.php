@@ -5,7 +5,7 @@
 <div class="nav-section" ><center>
 	<div class="dropdown">
 	  <button class="dropbtn">
-		<a class="active1"  href="/Website-JSD/Home.php" style="font-size:25px;"><i class="fa fa-home"></i></a> 
+		<a href="Home.php" style="font-size:25px;"><i class="fa fa-home"></i></a> 
 	  </button>
 	</div>
 	<div class="dropdown">
